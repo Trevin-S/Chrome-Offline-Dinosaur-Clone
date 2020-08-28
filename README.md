@@ -1,2 +1,2 @@
 # Chrome-Offline-Dinosaur-Clone
-Google Chrome's famous Dinosaur Game signifying your computer is offline - cloned with Python.
+Google Chrome's famous "Your computer is offline" Dinosaur Game - cloned with Python.
